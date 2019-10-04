@@ -7,7 +7,7 @@ body {
 div {
   width: 700px;
   margin: auto; /*centers element*/
-  font-family: "Helvetica Neue";
+  /*font-family: "Helvetica Neue";*/
   background: white;
   padding: 30px; /*creates an invisible space around the element*/
 }
